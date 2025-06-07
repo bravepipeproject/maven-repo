@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.evermind-zz",
+    "module": "hlsdownloader",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "hlsdownloader-1.0.0.jar",
+          "url": "hlsdownloader-1.0.0.jar",
+          "size": 44976,
+          "sha512": "11b3fc4ebe759003a83b7d15e77de0f3e8ed7e76b302820f91d38f488313dba1427b3c7501732dc09bec79336068106ea81bee7270f86e1cb3ab7e7bf7f52e32",
+          "sha256": "900825db067ac63d2e5b7868803739fd4093328060256364ac25b6dfad6bc2a4",
+          "sha1": "68ee02fea348874870bbb69b74cf9fe0884fb395",
+          "md5": "5b2aa902eba23780a105bf998d59c937"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "hlsdownloader-1.0.0.jar",
+          "url": "hlsdownloader-1.0.0.jar",
+          "size": 44976,
+          "sha512": "11b3fc4ebe759003a83b7d15e77de0f3e8ed7e76b302820f91d38f488313dba1427b3c7501732dc09bec79336068106ea81bee7270f86e1cb3ab7e7bf7f52e32",
+          "sha256": "900825db067ac63d2e5b7868803739fd4093328060256364ac25b6dfad6bc2a4",
+          "sha1": "68ee02fea348874870bbb69b74cf9fe0884fb395",
+          "md5": "5b2aa902eba23780a105bf998d59c937"
+        }
+      ]
+    }
+  ]
+}

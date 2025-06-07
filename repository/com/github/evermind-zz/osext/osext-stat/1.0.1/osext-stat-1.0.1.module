@@ -1,0 +1,58 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.evermind-zz.osext",
+    "module": "osext-stat",
+    "version": "1.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "osext-stat-1.0.1.aar",
+          "url": "osext-stat-1.0.1.aar",
+          "size": 281114,
+          "sha512": "f837a0488bd4f709671db13b79c930ca6a768395f0d0cf8dc189a0d8f16f975a7e665f3222d226bdbe6d6887838cdeebe56a644358c05e7ef910671b6630f6fb",
+          "sha256": "457607073ea2cc67a21ab727d440de371aa71c6e661d1c513ef5f227e06a5a26",
+          "sha1": "57ad9a64d2017d297e76c0de416a235de3edb165",
+          "md5": "ce00183b5fdbb6f558ad007976f13cc5"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "osext-stat-1.0.1.aar",
+          "url": "osext-stat-1.0.1.aar",
+          "size": 281114,
+          "sha512": "f837a0488bd4f709671db13b79c930ca6a768395f0d0cf8dc189a0d8f16f975a7e665f3222d226bdbe6d6887838cdeebe56a644358c05e7ef910671b6630f6fb",
+          "sha256": "457607073ea2cc67a21ab727d440de371aa71c6e661d1c513ef5f227e06a5a26",
+          "sha1": "57ad9a64d2017d297e76c0de416a235de3edb165",
+          "md5": "ce00183b5fdbb6f558ad007976f13cc5"
+        }
+      ]
+    }
+  ]
+}

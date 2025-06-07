@@ -1,0 +1,98 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.evermind-zz",
+    "module": "slimhls-converter",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "slimhls-converter-1.0.0.aar",
+          "url": "slimhls-converter-1.0.0.aar",
+          "size": 3122668,
+          "sha512": "cb502631b535ab5c5bafd0cd2208fdecd4d010b6572d7cb35b3e6e0b3b1631736a76f272e0fb17719fd1724ab5ae398be0873f6b5597b3d57a4761adead705c4",
+          "sha256": "2ccd473c04f5856c8d52cc767551c4adcbb77babf4462285f86e1a3726851d01",
+          "sha1": "adfa312cf56da7d3ade41e2c716866ad059d8bdc",
+          "md5": "2625d4e181d95f8342fbcea779bdd4b0"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "slimhls-converter-1.0.0.aar",
+          "url": "slimhls-converter-1.0.0.aar",
+          "size": 3122668,
+          "sha512": "cb502631b535ab5c5bafd0cd2208fdecd4d010b6572d7cb35b3e6e0b3b1631736a76f272e0fb17719fd1724ab5ae398be0873f6b5597b3d57a4761adead705c4",
+          "sha256": "2ccd473c04f5856c8d52cc767551c4adcbb77babf4462285f86e1a3726851d01",
+          "sha1": "adfa312cf56da7d3ade41e2c716866ad059d8bdc",
+          "md5": "2625d4e181d95f8342fbcea779bdd4b0"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "slimhls-converter-1.0.0-sources.jar",
+          "url": "slimhls-converter-1.0.0-sources.jar",
+          "size": 3461,
+          "sha512": "42ac8244081f25df02fd7deddd6572e62d7a81c9df63019aaf990958efa22c567cf7565cb29fd79c61f143de5b40afb8ac8be39339e04a7fa4005a7bc4bf8954",
+          "sha256": "f422f988d6734904e791a72679bc0b10c2441560bc401e1fe36e822a2f3c4781",
+          "sha1": "c857ac9bf966c8a3b88557769041b3ea627870cb",
+          "md5": "87fd4e4cac07c591cd7e1e16e78c9905"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "slimhls-converter-1.0.0-javadoc.jar",
+          "url": "slimhls-converter-1.0.0-javadoc.jar",
+          "size": 267384,
+          "sha512": "65f24c7655c16a5cb8688383b505c10c4f54f80b6af2d41ddb371c44c762e651b94f5a1359727a261aa8113afa1d4958d02e9f19139de6d4a066d273166e71fd",
+          "sha256": "c6ccaf53d223b43c9cf74b16b3441a8cabf7a9d2db42cdbb244e8618c7b73431",
+          "sha1": "5618be589ae729bc719db874b136dce0456ab93e",
+          "md5": "c9e56ba6e46fc454aa389d5033b936cd"
+        }
+      ]
+    }
+  ]
+}
