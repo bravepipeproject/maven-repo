@@ -1,0 +1,69 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.bravepipeproject",
+    "module": "timeago-parser",
+    "version": "v0.24.8-2.2.8",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.9"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "timeago-parser-v0.24.8-2.2.8.jar",
+          "url": "timeago-parser-v0.24.8-2.2.8.jar",
+          "size": 80778,
+          "sha512": "66ef40d25cf1db85c736e5bda72c373eab8ecc06f01c39b3067943a96dbc6482c0efe06d8f5e9caf72afce26b6196ed302187cb7ce8f60facfb8b173b9c5e57c",
+          "sha256": "499ccd181d775bd7ddfbc7056920c8ec59d80d21e71150edde8711b61b46c412",
+          "sha1": "b036e65fb8aa5d851e82934a6999e14fbce75e33",
+          "md5": "013227116b8ccb7396f1cc82e96e5696"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "timeago-parser-v0.24.8-2.2.8.jar",
+          "url": "timeago-parser-v0.24.8-2.2.8.jar",
+          "size": 80778,
+          "sha512": "66ef40d25cf1db85c736e5bda72c373eab8ecc06f01c39b3067943a96dbc6482c0efe06d8f5e9caf72afce26b6196ed302187cb7ce8f60facfb8b173b9c5e57c",
+          "sha256": "499ccd181d775bd7ddfbc7056920c8ec59d80d21e71150edde8711b61b46c412",
+          "sha1": "b036e65fb8aa5d851e82934a6999e14fbce75e33",
+          "md5": "013227116b8ccb7396f1cc82e96e5696"
+        }
+      ]
+    }
+  ]
+}
