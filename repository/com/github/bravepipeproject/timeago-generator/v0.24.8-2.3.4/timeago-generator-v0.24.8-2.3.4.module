@@ -27,11 +27,11 @@
         {
           "name": "timeago-generator-v0.24.8-2.3.4.jar",
           "url": "timeago-generator-v0.24.8-2.3.4.jar",
-          "size": 13021,
-          "sha512": "4081562da928afc783f029292e31cb3715e3e9b010c86024aeca2ab758b42760e9220cf005b5531150eff83f8dbb0a46426eddd6dff21b72e1dbc593343b894b",
-          "sha256": "adfd88894d6234af2a3ce044bdd89a91fc48359d3c426c406b9ead036ac4d55d",
-          "sha1": "6572b71753b5d205861058fffbc145fdd3249c49",
-          "md5": "cdc777c0cdb64e8789eaf989a3686887"
+          "size": 13140,
+          "sha512": "ca60168d7908ba6e585348d64dc38ca706395263ee8847a27083dec2bda03cbc4aa1b33a7d8c2c3ec9290d13746bfbed1bcc4fdd0eadeb48be6fd92ca5965462",
+          "sha256": "12dd22f276c6759e20f0da8a6600f7b040f0fbab05f6ecb381e30f6480b9cf32",
+          "sha1": "293a7ea233a4924adfaccc6599f0ad3257d9b4cb",
+          "md5": "05b117d6775c2eae87a54760fd481f76"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "timeago-generator-v0.24.8-2.3.4.jar",
           "url": "timeago-generator-v0.24.8-2.3.4.jar",
-          "size": 13021,
-          "sha512": "4081562da928afc783f029292e31cb3715e3e9b010c86024aeca2ab758b42760e9220cf005b5531150eff83f8dbb0a46426eddd6dff21b72e1dbc593343b894b",
-          "sha256": "adfd88894d6234af2a3ce044bdd89a91fc48359d3c426c406b9ead036ac4d55d",
-          "sha1": "6572b71753b5d205861058fffbc145fdd3249c49",
-          "md5": "cdc777c0cdb64e8789eaf989a3686887"
+          "size": 13140,
+          "sha512": "ca60168d7908ba6e585348d64dc38ca706395263ee8847a27083dec2bda03cbc4aa1b33a7d8c2c3ec9290d13746bfbed1bcc4fdd0eadeb48be6fd92ca5965462",
+          "sha256": "12dd22f276c6759e20f0da8a6600f7b040f0fbab05f6ecb381e30f6480b9cf32",
+          "sha1": "293a7ea233a4924adfaccc6599f0ad3257d9b4cb",
+          "md5": "05b117d6775c2eae87a54760fd481f76"
         }
       ]
     }

@@ -37,10 +37,10 @@
           "name": "BravePipeExtractor-v0.24.8-2.3.4.jar",
           "url": "BravePipeExtractor-v0.24.8-2.3.4.jar",
           "size": 261,
-          "sha512": "84a6e91f08c45d08c68086a1647b211dfa6498637ced0c103ae00f825475ec7a0f2d31baea86511ba6f66f961f4558af0971ac42ffb5b8b07f19a92d6418c5d8",
-          "sha256": "181dbc72730d42362cbebd79dc0ee8002c8005236cda79a76831ac498a70b294",
-          "sha1": "cf344ca2c87a6af3429f37d75e770a966a8c473c",
-          "md5": "b6b196f8d455a963078587724c48ce66"
+          "sha512": "9bbe963e04b181a043c6ca9032cb63b4717508ee310f39b8021a733649b646a62ac41d9f3ea63aee819b76929a8bb6757994a2417fa09571ae8b8e777f42dc9b",
+          "sha256": "73d223e6a4f57e6db738d4c5cad081b54bc9932b1ed80edb11f89085bf7f8cd4",
+          "sha1": "93ccea6eaf04458d4e52fa02011b8488cf2ea8b2",
+          "md5": "893a97cf815221a6baa40106d86bc8e8"
         }
       ]
     },
@@ -74,10 +74,10 @@
           "name": "BravePipeExtractor-v0.24.8-2.3.4.jar",
           "url": "BravePipeExtractor-v0.24.8-2.3.4.jar",
           "size": 261,
-          "sha512": "84a6e91f08c45d08c68086a1647b211dfa6498637ced0c103ae00f825475ec7a0f2d31baea86511ba6f66f961f4558af0971ac42ffb5b8b07f19a92d6418c5d8",
-          "sha256": "181dbc72730d42362cbebd79dc0ee8002c8005236cda79a76831ac498a70b294",
-          "sha1": "cf344ca2c87a6af3429f37d75e770a966a8c473c",
-          "md5": "b6b196f8d455a963078587724c48ce66"
+          "sha512": "9bbe963e04b181a043c6ca9032cb63b4717508ee310f39b8021a733649b646a62ac41d9f3ea63aee819b76929a8bb6757994a2417fa09571ae8b8e777f42dc9b",
+          "sha256": "73d223e6a4f57e6db738d4c5cad081b54bc9932b1ed80edb11f89085bf7f8cd4",
+          "sha1": "93ccea6eaf04458d4e52fa02011b8488cf2ea8b2",
+          "md5": "893a97cf815221a6baa40106d86bc8e8"
         }
       ]
     }

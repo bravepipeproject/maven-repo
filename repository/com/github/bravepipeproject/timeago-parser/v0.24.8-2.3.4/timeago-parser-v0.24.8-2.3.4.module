@@ -27,11 +27,11 @@
         {
           "name": "timeago-parser-v0.24.8-2.3.4.jar",
           "url": "timeago-parser-v0.24.8-2.3.4.jar",
-          "size": 80074,
-          "sha512": "8f63090e17b71c2cb0600c49794565b7a280f248f0b13c570e4152f16541856ff591f7a44f4c27a872ab80c2d6d5783da32f804fef16f47e0c01ef3fafb5d2fd",
-          "sha256": "4ce0780f4efd6f805ac8326784879968d7616886c3d0b8f5be4296819b262cfd",
-          "sha1": "2d08d1850789f590c4523276d1cdecfa83db8320",
-          "md5": "42d61def3921a95e73361101bb77214d"
+          "size": 80780,
+          "sha512": "cf0757e1066693785678734ee0805135435f63b83a6a799ae5716536434f5e4d7080fb819daa86213f9d4b3fdb6494755c62e6d41862a6c4cbcfd6147dfef4a2",
+          "sha256": "d6b1b00a308a5af99acd4e81d2e35923a91ba4740393165d74aeeaf4d593e2ae",
+          "sha1": "1e123c2cff2db086768899eba3a385115744a66e",
+          "md5": "b5acc3a7e1bec1bc411261ddc8e29e6f"
         }
       ]
     },
@@ -57,11 +57,11 @@
         {
           "name": "timeago-parser-v0.24.8-2.3.4.jar",
           "url": "timeago-parser-v0.24.8-2.3.4.jar",
-          "size": 80074,
-          "sha512": "8f63090e17b71c2cb0600c49794565b7a280f248f0b13c570e4152f16541856ff591f7a44f4c27a872ab80c2d6d5783da32f804fef16f47e0c01ef3fafb5d2fd",
-          "sha256": "4ce0780f4efd6f805ac8326784879968d7616886c3d0b8f5be4296819b262cfd",
-          "sha1": "2d08d1850789f590c4523276d1cdecfa83db8320",
-          "md5": "42d61def3921a95e73361101bb77214d"
+          "size": 80780,
+          "sha512": "cf0757e1066693785678734ee0805135435f63b83a6a799ae5716536434f5e4d7080fb819daa86213f9d4b3fdb6494755c62e6d41862a6c4cbcfd6147dfef4a2",
+          "sha256": "d6b1b00a308a5af99acd4e81d2e35923a91ba4740393165d74aeeaf4d593e2ae",
+          "sha1": "1e123c2cff2db086768899eba3a385115744a66e",
+          "md5": "b5acc3a7e1bec1bc411261ddc8e29e6f"
         }
       ]
     }

@@ -36,11 +36,11 @@
         {
           "name": "extractor-v0.24.8-2.3.4.jar",
           "url": "extractor-v0.24.8-2.3.4.jar",
-          "size": 962538,
-          "sha512": "5ae7fdd9a6354d8b32764c95fba86fc97c00ec48fe6fb6b7494f570b91b301090eec0b3854d974d4f559e6af503949e70e268fdf642d9a989ed8b71ca47de489",
-          "sha256": "bd5e21b6b64a25140336fcb39e17035f71d3d4c7ef9fef4edb32794c17ac687e",
-          "sha1": "f3aedb391ff81e10c2b954ab025ac66475e97848",
-          "md5": "e947574f19eba8bff504202324390323"
+          "size": 973423,
+          "sha512": "22346c82c8d0486b8d2cbfd8a5a4f2e04e01e0a339b9eb73f6af83809cc793f35f75c8156d59b830d5ea5909db16edd359a279d619b3fed42fe34f58931ae512",
+          "sha256": "383a626211a60397705f9fe9a9453efcff7b9e115a7d7dbb247a17970f98ffd8",
+          "sha1": "a593917108d97673b800b5f2386627171d6c0bf9",
+          "md5": "eaf3cded43604fcb637b154b74a981ea"
         }
       ]
     },
@@ -122,11 +122,11 @@
         {
           "name": "extractor-v0.24.8-2.3.4.jar",
           "url": "extractor-v0.24.8-2.3.4.jar",
-          "size": 962538,
-          "sha512": "5ae7fdd9a6354d8b32764c95fba86fc97c00ec48fe6fb6b7494f570b91b301090eec0b3854d974d4f559e6af503949e70e268fdf642d9a989ed8b71ca47de489",
-          "sha256": "bd5e21b6b64a25140336fcb39e17035f71d3d4c7ef9fef4edb32794c17ac687e",
-          "sha1": "f3aedb391ff81e10c2b954ab025ac66475e97848",
-          "md5": "e947574f19eba8bff504202324390323"
+          "size": 973423,
+          "sha512": "22346c82c8d0486b8d2cbfd8a5a4f2e04e01e0a339b9eb73f6af83809cc793f35f75c8156d59b830d5ea5909db16edd359a279d619b3fed42fe34f58931ae512",
+          "sha256": "383a626211a60397705f9fe9a9453efcff7b9e115a7d7dbb247a17970f98ffd8",
+          "sha1": "a593917108d97673b800b5f2386627171d6c0bf9",
+          "md5": "eaf3cded43604fcb637b154b74a981ea"
         }
       ]
     }
