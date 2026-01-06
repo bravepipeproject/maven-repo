@@ -1,0 +1,69 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.bravepipeproject",
+    "module": "timeago-parser",
+    "version": "v0.24.8-2.3.4",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "timeago-parser-v0.24.8-2.3.4.jar",
+          "url": "timeago-parser-v0.24.8-2.3.4.jar",
+          "size": 80780,
+          "sha512": "cf0757e1066693785678734ee0805135435f63b83a6a799ae5716536434f5e4d7080fb819daa86213f9d4b3fdb6494755c62e6d41862a6c4cbcfd6147dfef4a2",
+          "sha256": "d6b1b00a308a5af99acd4e81d2e35923a91ba4740393165d74aeeaf4d593e2ae",
+          "sha1": "1e123c2cff2db086768899eba3a385115744a66e",
+          "md5": "b5acc3a7e1bec1bc411261ddc8e29e6f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.google.code.findbugs",
+          "module": "jsr305",
+          "version": {
+            "requires": "3.0.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "timeago-parser-v0.24.8-2.3.4.jar",
+          "url": "timeago-parser-v0.24.8-2.3.4.jar",
+          "size": 80780,
+          "sha512": "cf0757e1066693785678734ee0805135435f63b83a6a799ae5716536434f5e4d7080fb819daa86213f9d4b3fdb6494755c62e6d41862a6c4cbcfd6147dfef4a2",
+          "sha256": "d6b1b00a308a5af99acd4e81d2e35923a91ba4740393165d74aeeaf4d593e2ae",
+          "sha1": "1e123c2cff2db086768899eba3a385115744a66e",
+          "md5": "b5acc3a7e1bec1bc411261ddc8e29e6f"
+        }
+      ]
+    }
+  ]
+}
