@@ -3,8 +3,8 @@
   <groupId>com.github.bravepipeproject</groupId>
   <artifactId>extractor</artifactId>
   <versioning>
-    <latest>v0.26.2-2.3.5</latest>
-    <release>v0.26.2-2.3.5</release>
+    <latest>v0.26.3-2.3.6</latest>
+    <release>v0.26.3-2.3.6</release>
     <versions>
       <version>v0.24.6-2.2.8</version>
       <version>v0.24.8-2.2.8</version>
@@ -19,7 +19,8 @@
       <version>v0.26.0-2.3.4</version>
       <version>v0.26.2-2.3.4</version>
       <version>v0.26.2-2.3.5</version>
+      <version>v0.26.3-2.3.6</version>
     </versions>
-    <lastUpdated>20260529052259</lastUpdated>
+    <lastUpdated>20260613210259</lastUpdated>
   </versioning>
 </metadata>
